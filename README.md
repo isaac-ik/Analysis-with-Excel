@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-This project seeks to uncover valuable business insights from a wide-ranging dataset using Microsoft Excel tools such as VLOOKUP, Pivot Tables, Macros, VBA, Charts, and Statistical Analysis. 
+This project seeks to uncover valuable business insights from a wide-ranging dataset using Microsoft Excel tools such as VLOOKUP, Pivot Tables, Charts, and Statistical Analysis. 
 ---
 
 ## Project Overview
