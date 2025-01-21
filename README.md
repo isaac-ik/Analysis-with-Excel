@@ -33,8 +33,6 @@ The dataset is available in an Excel file: [Retail Sales Data](./Retail_Sales.xl
 
 - **Charts**: Visualize data trends and insights.
 
-- **Macros & VBA**: Automate repetitive tasks and create reports.
-
 - **Filters & Sorting**: Identify patterns and insights quickly.
 
 - **Statistics**: Calculate averages, totals, and other key metrics.
@@ -55,15 +53,7 @@ The dataset is available in an Excel file: [Retail Sales Data](./Retail_Sales.xl
 
 - Create a chart showing monthly sales trends across all locations using **Pivot Charts** and **Line Charts**.
 
-### 4. **Automated Profit Report**
-
-- Write a Macro or VBA script to:
-
-  - Calculate the total profit for each product category.
-
-  - Determine the average customer satisfaction score for each category.
-
-### 5. **Top Sales Representative**
+### 4. **Top Sales Representative**
 
 - Use a **Pivot Table** or **Statistical Analysis** to determine which sales representative generated the highest profit.
 
